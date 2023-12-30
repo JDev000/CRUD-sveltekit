@@ -5,6 +5,7 @@
 </script>
 
 <h1>CRUD App</h1>
+<p>try to improve this!</p>
 <slot/>
 <Navbar/>
 
